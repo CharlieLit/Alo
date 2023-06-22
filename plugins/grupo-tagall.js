@@ -6,7 +6,7 @@ throw false
 let vn = './media/Invocar.mp3'
 let pesan = args.join` `
 let oi = `*Charlie Funade* ${pesan}`
-let teks = `〔 *${wm}* 〕\n *ANÓTENSE P CRJ Q ESPERAN;? UNA CARTA?* \n\n ${oi}\n\n *𝙀𝙩𝙞𝙦𝙪𝙚𝙩𝙖𝙨:*\n`
+let teks = `〔 *${wm}* 〕\n *𝐇𝐀𝐁𝐋𝐄 𝐇𝐃𝐏 ¿𝐐𝐔𝐄 𝐄𝐒𝐏𝐄𝐑𝐀?, ¿𝐔𝐍𝐀 𝐈𝐍𝐕𝐈𝐓𝐀𝐂𝐈𝐎𝐍?* \n\n ${oi}\n\n *𝐄𝐓𝐈𝐐𝐔𝐄𝐓𝐀𝐒:*\n`
 for (let mem of participants) {
 teks += `♥️😼 @${mem.id.split('@')[0]}\n`}
 teks += `└ @emx._xit\n\n*♥️🫂*`
